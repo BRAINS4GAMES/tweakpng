@@ -9,3 +9,13 @@
 /DebugU64
 /Release64
 /ReleaseU64
+*.ipch
+*.db
+*.opendb
+*.log
+*.tlog
+*.txt
+*.idb
+*.pdb
+*.obj
+*.sbr
