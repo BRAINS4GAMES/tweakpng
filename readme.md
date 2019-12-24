@@ -4,6 +4,7 @@
 
 <center><img src="https://github.com/cepiloth/tweakpng/blob/master/samples/overview.png"></center>
 
+
 ## History
  > 2019-12-24 : debug, release option 추가<br>
  > 2019-12-24 : zlib1.2.11, libpng1.6.37 version update<br>
@@ -11,13 +12,8 @@
  
 
 ## TweakPNG
-========
-
 A Windows application for viewing and editing PNG metadata.
-
 For usage instructions, see tweakpng.txt.
-
 For development instructions, see tweakpng-src.txt.
-
 [Web site](http://entropymine.com/jason/tweakpng/)
 
