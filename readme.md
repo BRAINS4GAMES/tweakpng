@@ -1,4 +1,4 @@
-TweakPNG
+TweakPNG For Visual Studio 2019
 ========
 
 A Windows application for viewing and editing PNG metadata.
