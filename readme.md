@@ -13,8 +13,8 @@
 <p>
 
 ## TweakPNG
-A Windows application for viewing and editing PNG metadata.<br>
-For usage instructions, see tweakpng.txt.<br>
-For development instructions, see tweakpng-src.txt.<br>
-[Web site](http://entropymine.com/jason/tweakpng/)<br>
+ > A Windows application for viewing and editing PNG metadata.<br>
+ > For usage instructions, see tweakpng.txt.<br>
+ > For development instructions, see tweakpng-src.txt.<br>
+ > [Web site](http://entropymine.com/jason/tweakpng/)<br>
 
