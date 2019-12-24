@@ -1,6 +1,5 @@
 ## Overview
  > http://entropymine.com/jason/tweakpng <br>
- > https://github.com/jsummers/tweakpng <br>
  위 사이트의 tweakpng 솔루션은 visual studio 2019 에서 사용할 수 있도록 REFORM 프로젝트 입니다.
  
 ## History
