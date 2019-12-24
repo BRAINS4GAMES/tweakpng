@@ -4,10 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tweakpng", "tweakpng.vcxproj", "{8AE0B791-6965-46B7-BA79-62F3D5E17F11}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F0AA937F-20BA-4183-B1C8-9D8C98AD55C3} = {F0AA937F-20BA-4183-B1C8-9D8C98AD55C3}
+		{EE53E8ED-E53D-4CA8-899E-B5F5FAF78D88} = {EE53E8ED-E53D-4CA8-899E-B5F5FAF78D88}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zlib", "zlib\zlib.vcxproj", "{F0AA937F-20BA-4183-B1C8-9D8C98AD55C3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libpng", "libpng\libpng.vcxproj", "{EE53E8ED-E53D-4CA8-899E-B5F5FAF78D88}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F0AA937F-20BA-4183-B1C8-9D8C98AD55C3} = {F0AA937F-20BA-4183-B1C8-9D8C98AD55C3}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -19,3 +19,6 @@
 *.pdb
 *.obj
 *.sbr
+*.db-shm
+*.db-wal
+*.bsc
